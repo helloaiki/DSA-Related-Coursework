@@ -1,0 +1,1 @@
+edges.get(edges.size()-1)-edges.get(0)
